@@ -10,7 +10,4 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   protected readonly title = signal('angular-tut');
   name = 'Praveen Hinduja';
-  hello() {
-    let x = '20';
-  }
 }
